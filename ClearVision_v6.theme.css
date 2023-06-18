@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://downloader.disk.yandex.ru/preview/934e02ac13849a2e55b7c6e93772b924e83e7230fc405cb2dcccac08d0fda8d7/648f8b61/OfThvY5PytdkOAJuSVJJNwyc-eDcge1vMDuW_h3yWJxWr_ncrGh5jTA5LJR-U1UuR-g3HPxi46TL0pTwxUG08Q%3D%3D?uid=0&filename=%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E9%99%90%E5%AE%9A%E5%A3%81%E7%B4%99%E9%85%8D%E5%B8%83%EF%BC%96%E6%9C%88.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=1898x954); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
